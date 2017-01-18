@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:gravity="center|top"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|top"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:onClick="goToMain" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wilk's Score"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_marginLeft="27dp"/>
+    </LinearLayout>
+
+
+
+        <EditText
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:inputType="number"
+            android:id="@+id/get_bench"
+            android:hint="@string/bench_text"/>
+
+
+
+    <EditText
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:inputType="number"
+        android:id="@+id/get_squat"
+        android:hint="@string/squat_text"/>
+    <EditText
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:inputType="number"
+        android:id="@+id/get_deadlift"
+        android:hint="@string/deadlift_text"/>
+    <EditText
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:inputType="number"
+        android:id="@+id/get_bw"
+        android:hint="@string/bw_text"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Male"
+            android:id="@+id/crunch_button_male"
+            android:onClick="onCrunchButtonMaleClick"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:layout_gravity="center_horizontal"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Female"
+            android:id="@+id/crunch_button_female"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:onClick="onCrunchButtonFemaleClick"
+            android:layout_gravity="center_horizontal" />
+    </LinearLayout>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Weights in Kilograms"
+        android:id="@+id/unitBox"
+        android:onClick="onKgCheckbox"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Wilk's Score:"
+            android:padding="20dp"
+            android:id="@+id/wilks_name"
+            />
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
