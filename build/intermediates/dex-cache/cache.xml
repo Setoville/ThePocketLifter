@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\andrewseto\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_1ee09be5e6505f1ee495f089fc48611852762efb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_07dcb1c49ae25e903a7457cf83f015e9ed9e684f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_0107f8d41594a84e11078d8fc8e412d5a6192f73\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="91decdd727d566490a6468d23f63433bf539ee2f">
+        <dex dex="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c271888e0495f6d1191a10f3f0f17abdf3d3688c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_8f35fd027fb6b22b8032c7efda12281e76905098\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c1f82fb009a7ea0e4f6dfc7c75a6dc30e5984a85">
+        <dex dex="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6232e79c96202ee1f8fa4d9143369fa0e207b57b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_bb7e13106eb313f5baec30babe9b89ec09285d16\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\andrewseto\AndroidStudioProjects\WorkoutBuddy2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_8927f9bb17b2962adb5ddc15feab044adcae04b2\classes.dex" />
+    </item>
+
+</items>
