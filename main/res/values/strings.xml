@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">The Pocket Lifter</string>
+    <string name="get_weight">Weight Lifted</string>
+    <string name="wilks_name">Wilks Constant</string>
+    <string name="calculator_name">1RM Calculator</string>
+    <string name="get_reps">Reps Done</string>
+    <string name="bench_text">Bench Press</string>
+    <string name="squat_text">Squat</string>
+    <string name="deadlift_text">Deadlift</string>
+    <string name="bw_text">Bodyweight</string>
+    <string name="breaktimer_name">Break Timer</string>
+    <string name="workout_name">Plate Calculator</string>
+    <string name="get_seconds">Seconds</string>
+    <string name="get_minutes">Minutes</string>
+    <string name="get_bar">Bar Weight</string>
+
+
+
+</resources>
